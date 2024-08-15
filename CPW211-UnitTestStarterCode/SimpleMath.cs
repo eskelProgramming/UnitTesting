@@ -25,7 +25,7 @@ namespace CPW211_UnitTestStarterCode
 
         public static double Multiply(double a, double b)
         {
-            throw new NotImplementedException();
+            return a * b;
         }
 
         public static double Divide(double a, double b)
